@@ -1,0 +1,9 @@
+// initial commit
+git add .
+git commit -m "Initial commit"
+
+// fetch from all the configured remotes and update tracking branches, but not merge into HEAD
+git remote update
+
+// update git windows
+git update-git-for-windows
