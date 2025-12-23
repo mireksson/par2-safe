@@ -1,0 +1,14 @@
+F:\Projects\Github\par2-safe\src\bin\Debug\net8.0\par2-safe.exe
+F:\Projects\Github\par2-safe\src\bin\Debug\net8.0\par2-safe.deps.json
+F:\Projects\Github\par2-safe\src\bin\Debug\net8.0\par2-safe.runtimeconfig.json
+F:\Projects\Github\par2-safe\src\bin\Debug\net8.0\par2-safe.dll
+F:\Projects\Github\par2-safe\src\bin\Debug\net8.0\par2-safe.pdb
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.AssemblyInfoInputs.cache
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.AssemblyInfo.cs
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.csproj.CoreCompileInputs.cache
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.dll
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\refint\par2-safe.dll
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.pdb
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\par2-safe.genruntimeconfig.cache
+F:\Projects\Github\par2-safe\src\obj\Debug\net8.0\ref\par2-safe.dll
